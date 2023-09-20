@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ankan-birthday/static/css/main.b5433bfa.css",
+    "main.js": "/ankan-birthday/static/js/main.8442df1e.js",
+    "static/js/787.99524b30.chunk.js": "/ankan-birthday/static/js/787.99524b30.chunk.js",
+    "static/media/chanda.mp3": "/ankan-birthday/static/media/chanda.6d4201c47c6f123b6cb1.mp3",
+    "static/media/eight.jpg": "/ankan-birthday/static/media/eight.5d73192f16b741a96b97.jpg",
+    "static/media/nine.jpg": "/ankan-birthday/static/media/nine.cef26fd69b64da0b2b56.jpg",
+    "static/media/eleven.jpg": "/ankan-birthday/static/media/eleven.91c2cc47cc976cd3466a.jpg",
+    "static/media/two.jpg": "/ankan-birthday/static/media/two.199c0a9850a775b98c69.jpg",
+    "static/media/ten.jpg": "/ankan-birthday/static/media/ten.5ddf8c7758ec91157749.jpg",
+    "static/media/four.jpg": "/ankan-birthday/static/media/four.5e4d354e492b1a278823.jpg",
+    "static/media/one.jpg": "/ankan-birthday/static/media/one.d7febaf8bd67f8ebd232.jpg",
+    "static/media/three.jpg": "/ankan-birthday/static/media/three.fcb3693642331edc74eb.jpg",
+    "static/media/seven.jpg": "/ankan-birthday/static/media/seven.711083bdaee4508be260.jpg",
+    "static/media/six.jpg": "/ankan-birthday/static/media/six.e8ec01638d1c3fdf71d6.jpg",
+    "static/media/five.jpg": "/ankan-birthday/static/media/five.99cb8236a098928a8029.jpg",
+    "static/media/right.svg": "/ankan-birthday/static/media/right.cfff9c85903ece194a0f.svg",
+    "index.html": "/ankan-birthday/index.html",
+    "main.b5433bfa.css.map": "/ankan-birthday/static/css/main.b5433bfa.css.map",
+    "main.8442df1e.js.map": "/ankan-birthday/static/js/main.8442df1e.js.map",
+    "787.99524b30.chunk.js.map": "/ankan-birthday/static/js/787.99524b30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5433bfa.css",
+    "static/js/main.8442df1e.js"
+  ]
+}
