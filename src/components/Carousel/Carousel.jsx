@@ -15,8 +15,14 @@ import Image8 from "../../assets/images/eight.jpg";
 import Image9 from "../../assets/images/nine.jpg";
 import Image10 from "../../assets/images/ten.jpg";
 import Image11 from "../../assets/images/eleven.jpg";
+import Image12 from "../../assets/images/twelve.jpg";
+import Image13 from "../../assets/images/thirteen.jpg";
+import Image14 from "../../assets/images/fourteen.jpg";
+import Image15 from "../../assets/images/fifteen.jpg";
+import Image16 from "../../assets/images/sixteen.jpg";
+import Image17 from "../../assets/images/seventeen.jpg";
 
-const fadeImages = [Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8, Image9, Image10, Image11];
+const fadeImages = [Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8, Image9, Image10, Image11, Image12, Image13, Image14, Image15, Image16, Image17];
 
 const Carousel = ({ setIsCarouselDialog }) => {
     const carouselDialog = (e) => {
