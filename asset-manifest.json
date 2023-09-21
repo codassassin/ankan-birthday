@@ -1,11 +1,15 @@
 {
   "files": {
     "main.css": "/ankan-birthday/static/css/main.b5433bfa.css",
-    "main.js": "/ankan-birthday/static/js/main.8442df1e.js",
+    "main.js": "/ankan-birthday/static/js/main.fdd22e57.js",
     "static/js/787.99524b30.chunk.js": "/ankan-birthday/static/js/787.99524b30.chunk.js",
     "static/media/chanda.mp3": "/ankan-birthday/static/media/chanda.6d4201c47c6f123b6cb1.mp3",
+    "static/media/fifteen.jpg": "/ankan-birthday/static/media/fifteen.27d89c22ab3e60c623b4.jpg",
     "static/media/eight.jpg": "/ankan-birthday/static/media/eight.5d73192f16b741a96b97.jpg",
     "static/media/nine.jpg": "/ankan-birthday/static/media/nine.cef26fd69b64da0b2b56.jpg",
+    "static/media/fourteen.jpg": "/ankan-birthday/static/media/fourteen.861ae849ae0edd305b25.jpg",
+    "static/media/thirteen.jpg": "/ankan-birthday/static/media/thirteen.9e174c1dd676b25d6ec9.jpg",
+    "static/media/twelve.jpg": "/ankan-birthday/static/media/twelve.ca1da1cd830426da65b4.jpg",
     "static/media/eleven.jpg": "/ankan-birthday/static/media/eleven.91c2cc47cc976cd3466a.jpg",
     "static/media/two.jpg": "/ankan-birthday/static/media/two.199c0a9850a775b98c69.jpg",
     "static/media/ten.jpg": "/ankan-birthday/static/media/ten.5ddf8c7758ec91157749.jpg",
@@ -13,16 +17,18 @@
     "static/media/one.jpg": "/ankan-birthday/static/media/one.d7febaf8bd67f8ebd232.jpg",
     "static/media/three.jpg": "/ankan-birthday/static/media/three.fcb3693642331edc74eb.jpg",
     "static/media/seven.jpg": "/ankan-birthday/static/media/seven.711083bdaee4508be260.jpg",
+    "static/media/sixteen.jpg": "/ankan-birthday/static/media/sixteen.a9cf1c71b7e5e0089556.jpg",
     "static/media/six.jpg": "/ankan-birthday/static/media/six.e8ec01638d1c3fdf71d6.jpg",
     "static/media/five.jpg": "/ankan-birthday/static/media/five.99cb8236a098928a8029.jpg",
+    "static/media/seventeen.jpg": "/ankan-birthday/static/media/seventeen.39469fe8c8db28fc5b3e.jpg",
     "static/media/right.svg": "/ankan-birthday/static/media/right.cfff9c85903ece194a0f.svg",
     "index.html": "/ankan-birthday/index.html",
     "main.b5433bfa.css.map": "/ankan-birthday/static/css/main.b5433bfa.css.map",
-    "main.8442df1e.js.map": "/ankan-birthday/static/js/main.8442df1e.js.map",
+    "main.fdd22e57.js.map": "/ankan-birthday/static/js/main.fdd22e57.js.map",
     "787.99524b30.chunk.js.map": "/ankan-birthday/static/js/787.99524b30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5433bfa.css",
-    "static/js/main.8442df1e.js"
+    "static/js/main.fdd22e57.js"
   ]
 }
