@@ -2,7 +2,7 @@ import './App.css';
 import Confetti from 'react-confetti';
 import ConfettiExplosion from 'react-confetti-explosion';
 import Carousel from './components/Carousel/Carousel';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import AnimatedLetters from './components/AnimatedLetters/AnimatedLetters';
 import { ReactFloatingBalloons } from 'react-floating-balloons';
 import chanda from './assets/music/chanda.mp3';
@@ -15,14 +15,6 @@ function App() {
     audio: new Audio(chanda),
     isPlaying: false,
   });
-
-  // const playPause = () => {
-  //   let isPlaying = audio.isPlaying;
-
-  //   if(isPlaying) {
-
-  //   }
-  // };
 
   const changeState = (e) => {
     e.preventDefault();
