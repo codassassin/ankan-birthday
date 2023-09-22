@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ankan-birthday/static/css/main.b5433bfa.css",
-    "main.js": "/ankan-birthday/static/js/main.fdd22e57.js",
+    "main.js": "/ankan-birthday/static/js/main.b0e4ebe1.js",
     "static/js/787.99524b30.chunk.js": "/ankan-birthday/static/js/787.99524b30.chunk.js",
     "static/media/chanda.mp3": "/ankan-birthday/static/media/chanda.6d4201c47c6f123b6cb1.mp3",
     "static/media/fifteen.jpg": "/ankan-birthday/static/media/fifteen.27d89c22ab3e60c623b4.jpg",
@@ -13,8 +13,10 @@
     "static/media/eleven.jpg": "/ankan-birthday/static/media/eleven.91c2cc47cc976cd3466a.jpg",
     "static/media/two.jpg": "/ankan-birthday/static/media/two.199c0a9850a775b98c69.jpg",
     "static/media/ten.jpg": "/ankan-birthday/static/media/ten.5ddf8c7758ec91157749.jpg",
+    "static/media/nineteen.jpeg": "/ankan-birthday/static/media/nineteen.ac99688f1ad7f01d43ec.jpeg",
     "static/media/four.jpg": "/ankan-birthday/static/media/four.5e4d354e492b1a278823.jpg",
     "static/media/one.jpg": "/ankan-birthday/static/media/one.d7febaf8bd67f8ebd232.jpg",
+    "static/media/eighteen.jpeg": "/ankan-birthday/static/media/eighteen.e922d755808a9026dacd.jpeg",
     "static/media/three.jpg": "/ankan-birthday/static/media/three.fcb3693642331edc74eb.jpg",
     "static/media/seven.jpg": "/ankan-birthday/static/media/seven.711083bdaee4508be260.jpg",
     "static/media/sixteen.jpg": "/ankan-birthday/static/media/sixteen.a9cf1c71b7e5e0089556.jpg",
@@ -24,11 +26,11 @@
     "static/media/right.svg": "/ankan-birthday/static/media/right.cfff9c85903ece194a0f.svg",
     "index.html": "/ankan-birthday/index.html",
     "main.b5433bfa.css.map": "/ankan-birthday/static/css/main.b5433bfa.css.map",
-    "main.fdd22e57.js.map": "/ankan-birthday/static/js/main.fdd22e57.js.map",
+    "main.b0e4ebe1.js.map": "/ankan-birthday/static/js/main.b0e4ebe1.js.map",
     "787.99524b30.chunk.js.map": "/ankan-birthday/static/js/787.99524b30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5433bfa.css",
-    "static/js/main.fdd22e57.js"
+    "static/js/main.b0e4ebe1.js"
   ]
 }
